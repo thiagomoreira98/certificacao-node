@@ -2,9 +2,7 @@
 
 ## OpenJS Node.js Application Developer (JSNAD)
 
-<div style="text-align:center; width: 200px; height: 200px; margin-bottom: 16px">
-    <img src ="https://training.linuxfoundation.org/wp-content/uploads/2019/08/Node.JS-AppDev.png" />
-</div>
+<img src ="https://training.linuxfoundation.org/wp-content/uploads/2019/08/Node.JS-AppDev.png" width="200"/>
 
 |  # 	| Tópico                              | Peso 	|
 |:-----:|-------------------------------------|:-------:|
@@ -77,13 +75,11 @@
     * Testing synchronous code
     * Testing asynchronous code
 
-## ---------------------------------------------------------------------------------------------------------
+## -------------------------------------------------------------------------------------------
 
 ## OpenJS Node.js Services Developer (JSNSD)
 
-<div style="text-align:center; width: 200px; height: 200px; margin-bottom: 16px">
-    <img src="https://training.linuxfoundation.org/wp-content/uploads/2019/08/Node.JS-ServDev.png" />
-</div>
+<img src="https://training.linuxfoundation.org/wp-content/uploads/2019/08/Node.JS-ServDev.png" width="200"/>
 
 |  # 	| Tópico                              | Peso 	|
 |:-----:|-------------------------------------|:-------:|
