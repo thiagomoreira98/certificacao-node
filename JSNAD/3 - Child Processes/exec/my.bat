@@ -1,0 +1,1 @@
+ECHO "Executing my.bat"
