@@ -8,6 +8,7 @@
   - Code Editing Software (VSCode, Vim)
   - Node.js Version 10.16 LTS
 
+### Docs: https://nodejs.org/docs/latest-v10.x/api/
 
 ## Requirements
 |  # 	| Tópico                              | Peso 	|
